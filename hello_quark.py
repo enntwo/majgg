@@ -188,4 +188,4 @@ def print_data_as_json(data, type):
     json = MessageToJson(data)
     logging.info("{} json {}".format(type, json))
 
-app.run()
+#app.run()
